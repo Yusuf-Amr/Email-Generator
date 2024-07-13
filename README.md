@@ -9,7 +9,7 @@
         ◦ Efficiency
         ◦ Accuracy, ensuring all necessary details are consistently included.
         
-  This tool is not limited to cybersecurity but can be adapted and customized for various fields. Feel free to download and modify it according to your specific needs.
+  This tool is not limited to this field of cybersecurity but can be adapted and customized for various fields. Feel free to download and modify it according to your specific needs.
 
 ## Installation
 
