@@ -14,7 +14,7 @@ class SecurityTrainingReminderTemplate(BaseTemplate):
         return ["recipient","date", "training_session_date", "training_session_time", "training_location", "additional_instructions"]
 
     def generate_subject(self):
-        return "[System Notification] Security Awareness Training Reminder"
+        return f"Security Awareness Training Reminder [{self.training_session_date}]"
 
     def generate_body(self):
         return f"""
