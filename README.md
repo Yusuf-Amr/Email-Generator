@@ -1,6 +1,6 @@
 ## Email Generator
 
-I wanted to share a tool that I've created and really enjoy using. It's not highly technical, but it's incredibly useful. It's very simple, yet it saves time, and improves efficiency and accuracy. The tool is designed to automate the creation of email templates, and here's why i find it beneficial too:
+I wanted to share a tool that I've created and really enjoy using. It's not highly technical, but it's incredibly useful and very simple. This tool automates the creation of standardized email templates. It simplifies writing repetitive emails by allowing you to input essential details, ensuring accuracy and saving time, and here's why i find it beneficial too:
 
 • Writing routine emails can be time-consuming, especially when each email requires specific data such as dates, IP addresses, port numbers, and other essential details.
 
@@ -36,4 +36,4 @@ python3 main.py
 Follow the prompts to select the type of email template you want to generate and enter the required information.
 
 ## Demo
-Check this post: https://www.linkedin.com/posts/yusuf-amr_cybersecurity-informationsecurity-soc-activity-7217860684196282368-8zKh?utm_source=share&utm_medium=member_desktop
+Check this: https://www.linkedin.com/posts/yusuf-amr_cybersecurity-informationsecurity-soc-activity-7217860684196282368-8zKh?utm_source=share&utm_medium=member_desktop
