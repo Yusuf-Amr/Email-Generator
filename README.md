@@ -36,4 +36,4 @@ python3 main.py
 Follow the prompts to select the type of email template you want to generate and enter the required information.
 
 ## Demo
-Check this: https://www.linkedin.com/posts/yusuf-amr_cybersecurity-informationsecurity-soc-activity-7217860684196282368-8zKh?utm_source=share&utm_medium=member_desktop
+Check: https://www.linkedin.com/posts/yusuf-amr_cybersecurity-informationsecurity-soc-activity-7217860684196282368-8zKh?utm_source=share&utm_medium=member_desktop
